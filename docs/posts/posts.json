@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/2022-08-03-how-to-learn/",
+    "title": "How to learn ?",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "buthynah",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-08-03",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-08-03T15:39:40+03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My Blog",
+    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-08-03",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-08-03T15:22:06+03:00",
+    "input_file": {}
+  }
+]

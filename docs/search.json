@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\nبثينه الحميدان\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-03T15:43:35+03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "My Blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-03T15:40:17+03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
