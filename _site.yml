@@ -1,12 +1,12 @@
 name: "blog_buthynah"
-title: "My Blog"
+title: "Buthaynah AL-Humaidan بثينه الحميدان"
 description: |
   My Blog
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
+    - text: "رحلاتي في اكتساب الخبرات"
       href: index.html
-    - text: "About"
+    - text: "who I am // من انا"
       href: about.html
 output: distill::distill_article

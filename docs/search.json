@@ -2,18 +2,18 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "title": "Who I am...من انا",
+      "description": "خريجه تخصص احصاء و بحوث عمليات من جامعه القصيم عام 1443هـ / 2022م , مهتمه علم البيانات و الابحاث , اجد سعادتي عندما اصنع بعضًا من الحلويات",
       "author": [],
-      "contents": "\r\nبثينه الحميدان\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-03T15:43:35+03:00"
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-08T07:11:20+03:00"
     },
     {
       "path": "index.html",
-      "title": "My Blog",
+      "title": "Buthaynah AL-Homaidan بثينه الحميدان",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-03T15:40:17+03:00"
+      "last_modified": "2022-08-08T07:11:25+03:00"
     }
   ],
   "collections": ["posts/posts.json"]

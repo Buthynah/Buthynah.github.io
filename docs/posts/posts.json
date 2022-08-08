@@ -1,8 +1,25 @@
 [
   {
+    "path": "posts/",
+    "title": "مرحلة الثانوية",
+    "description": "بدايه تخصصي في مجال العلوم",
+    "author": [
+      {
+        "name": "بثينه",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-08-08",
+    "categories": [],
+    "contents": "\r\nقق\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-08-08T07:04:49+03:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2022-08-03-how-to-learn/",
-    "title": "How to learn ?",
-    "description": "A short description of the post.",
+    "title": "مرحلة المتوسط",
+    "description": "بدايه تعرفي على مواد جديده",
     "author": [
       {
         "name": "buthynah",
@@ -11,18 +28,35 @@
     ],
     "date": "2022-08-03",
     "categories": [],
-    "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-08-03T15:39:40+03:00",
+    "last_modified": "2022-08-08T07:07:55+03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2022-08-03-why-i-love-r/",
+    "title": "لغة الآر من الصفر الى الاحتراف",
+    "description": "هي دوره حضرتها لمده شهرين عام 1444هـ 2022م لبرنام آر ستديو",
+    "author": [
+      {
+        "name": "بثينه",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-08-03",
+    "categories": [],
+    "contents": "\r\nرحلتي مع برنامج الR كيف تعرفت على برنامج الR? في مرحله البكالوريس\r\nللأحصاء تعلمت كيفيه جمع و تحليل البيانات على برنامج الSPSS وكنت اسمع\r\nييرنامج الR من اساتذتي و اشخاص اعرفهم من مرحله الماجستير في الاحصاء حيث\r\nكانوايقولون انه افضل من الSPSS من حيث تشعبه بتحليل البيانات من اغلب\r\nالنواحي في الاحصاء. كيف تعلمته؟ في دوره القتها لي الكتوره بتول تيبابي\r\nابرز الاشياء التي تعرضت لها خلال فتره تعلمي له؟ تاباتاا\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-08-08T07:02:38+03:00",
     "input_file": {}
   },
   {
     "path": "posts/welcome/",
-    "title": "Welcome to My Blog",
-    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "title": "تخصص الاحصاء",
+    "description": "نبذه بسيطه عن تخصصي في مرحله البكالوريس",
     "author": [
       {
-        "name": "Nora Jones",
+        "name": "بثينه",
         "url": "https://example.com/norajones"
       }
     ],
@@ -30,7 +64,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-08-03T15:22:06+03:00",
+    "last_modified": "2022-08-08T07:08:38+03:00",
     "input_file": {}
   }
 ]

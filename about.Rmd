@@ -1,11 +1,6 @@
 ---
-title: "About this blog"
+title: "Who I am...من انا"
 description: |
-  Some additional details about the blog
+  خريجه تخصص احصاء و بحوث عمليات من جامعه القصيم عام 1443هـ / 2022م , مهتمه علم البيانات و الابحاث , اجد سعادتي عندما اصنع بعضًا من الحلويات
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-بثينه الحميدان 
