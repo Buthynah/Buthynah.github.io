@@ -5,8 +5,7 @@ description: |
 author:
   - name: بثينه 
     url: https://example.com/norajones
-    affiliation_url: https://example.com/spacelysprokets
-date: "2016-2018"
+date: 1-1-2016
 output: distill::distill_article
 ---
 
