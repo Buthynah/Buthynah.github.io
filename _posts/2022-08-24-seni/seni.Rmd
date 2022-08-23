@@ -1,13 +1,16 @@
 ---
-title: "مرحلة الثانوية"
+title: "المرحلة الثانوية"
 description: |
-  بدايه تخصصي في مجال العلوم 
+  بدايه تخصصي في مجال العلوم
 author:
-  - name: بثينه 
+  - name: بثينه
     url: https://example.com/norajones
-date: 1-1-2016
-output: distill::distill_article
+date: 2016-1-1
+output:
+  distill::distill_article:
+    self_contained: false
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

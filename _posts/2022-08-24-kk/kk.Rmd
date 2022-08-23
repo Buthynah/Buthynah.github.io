@@ -1,13 +1,15 @@
 ---
-title: "مرحلة الابتدائي"
+title: "المرحلة الابتدائيه"
 description: |
   المرحله الاساسيه في حياتي التي غرست فيني حب الرياضيات و علومه
 author:
-  - name: بثينه 
-    url: https://example.com/norajones
-date: 1-1-2006
-output: distill::distill_article
+  - name: بثينه
+date: 2006-1-1
+output:
+  distill::distill_article:
+    self_contained: false
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
